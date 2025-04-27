@@ -21,11 +21,11 @@ Repozytorium zawiera następujące pliki i katalogi:
     https://wsb-praca-dyplom-ak.streamlit.app
     ```
     
-2.  **Uruchom aplikację Streamlit w środowisku Python:**
+2.  **Uruchom aplikację Streamlit lokalnie za pomocą terminala** (wymagane środowisko Python oraz dostęp do plików projektu).:
     ```bash
     streamlit run Streamlit_app_Wypadki_M_W.py
     ```
-## Plan pracy (Nawigacja w aplikacji)
+## Plan pracy (spis treści)
 W aplikacji można przechodzić pomiędzy sekcjami:
 - **I. Wstęp** - Opis celu i zakresu projektu.
 - **II. Dane i metodyka** - Szczegóły dotyczące źródeł danych i metodologii analizy.
