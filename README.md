@@ -9,7 +9,7 @@ Repozytorium zawiera następujące pliki i katalogi:
 -   `README.md`: Ten plik, zawierający opis projektu.
 
 ## Jak uruchomić aplikację Streamlit:
-1.  **Uruchom aplikację Streamlit:**
+1.  **Uruchom aplikację Streamlit w przeglądrace internetowej:**
     ```bash
     https://wsb-praca-dyplom-ak.streamlit.app/
     ```
