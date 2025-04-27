@@ -14,7 +14,7 @@ Repozytorium zawiera następujące pliki i katalogi:
     https://wsb-praca-dyplom-ak.streamlit.app/
     ```
     
-2.  **Uruchom aplikację Streamlit:**
+2.  **Uruchom aplikację Streamlit w środowisku Python:**
     ```bash
     streamlit run Streamlit_app_Wypadki_M_W.py
     ```
