@@ -4,7 +4,7 @@ Ten projekt ma na celu analizę danych dotyczących wypadków drogowych na teren
 ## Zawartość repozytorium:
 Repozytorium zawiera następujące pliki i katalogi:
 
--   `streamlit_app.py`: Główny skrypt aplikacji Streamlit, który wizualizuje dane i wyniki analizy.
+-   `Streamlit_app_Wypadki_M_W.py`: Główny skrypt aplikacji Streamlit, który wizualizuje dane i wyniki analizy.
 -   `requirements.txt`: Plik zawierający listę zależności Pythona wymaganych do uruchomienia aplikacji.
 -   `README.md`: Ten plik, zawierający opis projektu.
 
