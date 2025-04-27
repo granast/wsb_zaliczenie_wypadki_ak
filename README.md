@@ -11,12 +11,12 @@ Repozytorium zawiera następujące pliki i katalogi:
 ## Jak uruchomić aplikację Streamlit:
 1.  **Uruchom aplikację Streamlit:**
     ```bash
-    https://zaliczenie-wsb-ver3.streamlit.app/
+    https://wsb-praca-dyplom-ak.streamlit.app/
     ```
     
 2.  **Uruchom aplikację Streamlit:**
     ```bash
-    streamlit run appAnalizaWypadki_v3.py
+    streamlit run Streamlit_app_Wypadki_M_W.py
     ```
 
    Po uruchomieniu, aplikacja powinna otworzyć się w Twojej przeglądarce internetowej.
